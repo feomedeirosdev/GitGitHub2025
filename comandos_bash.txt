@@ -3,3 +3,4 @@ cd -> muda de diretório
 pwd -> mostra diretório de trabalho
 cat -> mostra conteudo do arquivo de texto
 rm -> remove arquivo ou diretório vazio
+rm -rf -> remove de forma forçada arquivos ou diretórios de forma recorrente

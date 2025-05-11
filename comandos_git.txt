@@ -2,3 +2,4 @@ git int . -> cria um repositório git na pasta atual
 git status -> mostra o status do trabalho de cada arquivo
 git add nome_do_arquivo -> adicina arquivo para ser comitado
 git commit -m "msg" -> faz o commit do que estava para ser comitado 
+git log -> mostra o histórico de commits feitos
