@@ -5,3 +5,6 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code
 
 Confira tudo no nosso canal do YouTube [Téo Me Why](https://www.youtube.com/@teomewhy). É gratis!
+
+## Pessoas Participantes:
+- Fabio Medeiros
