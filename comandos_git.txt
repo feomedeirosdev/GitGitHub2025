@@ -1,15 +1,15 @@
-git int . -> cria um repositório git na pasta atual
-git status -> mostra o status do trabalho de cada arquivo
+git int .               -> cria um repositório git na pasta atual
+git status              -> mostra o status do trabalho de cada arquivo
 git add nome_do_arquivo -> adicina arquivo para ser comitado
-git commit -m "msg" -> faz o commit do que estava para ser comitado 
-git log -> mostra o histórico de commits feitos
+git commit -m "msg"     -> faz o commit do que estava para ser comitado 
+git log                 -> mostra o histórico de commits feitos
 
-1. criar o diretório do projeto
+1. criar o diretório (pasta) do projeto
 2. iniciar o git dentro do diretório criado (git init .)
 3. editar ou criar arquivos
 4. git status
 5. git add <nome_do_arquivo>
 6. git status
-7. git commit -m "msg"
+7. git commit -m "mensagem"
 8. git status
-9. voltar para o passo 3.
+9. voltar para o passo 3
