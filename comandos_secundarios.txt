@@ -5,3 +5,8 @@ Esse arquivo contem comandos secundários
 
 # Comandos mais genéricos
 - comandos estranhos 
+
+# Mais comandos!!!
+- asdfgh
+- qwrty
+- zxcvbn
