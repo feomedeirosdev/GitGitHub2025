@@ -8,6 +8,10 @@ Confira tudo no nosso canal do YouTube [Téo Me Why](https://www.youtube.com/@te
 
 Segue o link da playlist do curso de [Git e GitHub 2025](https://www.youtube.com/watch?v=84FhNXNWoig&list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL&index=1)
 
+Além do nosso YoyTube, confira nosso site e agenda para ficar por dentro de tudo que planejamos para 2025.
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
 ## Fluxo de trabalho Git local
 
 1.  git checkout -b <nova-branch>
